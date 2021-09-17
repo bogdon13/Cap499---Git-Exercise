@@ -3,7 +3,7 @@ public class test1 {
 
 	public static void main(String[] args) {
 		
-		int[] myNum = new int[]{34, 46, 26, 56};
+		int[] myNum = new int[]{34, 36, 26, 56};
 		
 		int temp;
 		
